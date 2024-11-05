@@ -21,4 +21,7 @@ Languages and Tools:
 
 
 
-Feel free to connect with me on: <p align="left"> <a href="https://www.linkedin.com/in/fidan-tomarova" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p> to discuss collaboration or share insights about software development.
+Feel free to connect with me on: 
+           <div> 
+            <img href="https://www.linkedin.com/in/fidan-tomarova" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+           </div> to discuss collaboration or share insights about software development.
