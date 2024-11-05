@@ -6,4 +6,4 @@ Languages and Tools:
 About Me:
 I specialize in backend development using the .NET framework, crafting efficient and scalable solutions. I’m always eager to learn more and keep improving my skills.
 
-Feel free to connect with me on <p align="left"> <a href="https://www.linkedin.com/in/fidan-tomarova" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p> to discuss collaboration or share insights about software development.
+Feel free to connect with me on: <p align="left"> <a href="https://www.linkedin.com/in/fidan-tomarova" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p> to discuss collaboration or share insights about software development.
