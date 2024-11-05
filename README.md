@@ -26,5 +26,8 @@ Feel free to connect with me on:
     <a href="https://www.linkedin.com/in/fidan-tomarova" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
+    <a href="https://discord.com/users/1032377919521165434" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
+    </a>
 </div>
  to discuss collaboration or share insights about software development.
