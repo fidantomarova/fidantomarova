@@ -1,6 +1,11 @@
-Hi there 👋 I'm Fidan Tomarova
+<h1 align="center">Hi 👋, I'm Fidan</h1>
+<h3 align="center">.net backend developer from Azerbaijan</h3>
 
-.NET Backend Developer
+- 📫 How to reach me **fidan.tomarova@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/104_OLeYTMn-A1gXpZD2s7APi5104c5nS/view?usp=sharing](https://drive.google.com/file/d/104_OLeYTMn-A1gXpZD2s7APi5104c5nS/view?usp=sharing)
+
+- ⚡ Fun fact **I think I am funny**
 
 Languages and Tools:
 <div>
@@ -14,9 +19,11 @@ Languages and Tools:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </div>
 
 
