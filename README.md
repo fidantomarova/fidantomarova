@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **fidan.tomarova@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/104_OLeYTMn-A1gXpZD2s7APi5104c5nS/view?usp=sharing](https://drive.google.com/file/d/104_OLeYTMn-A1gXpZD2s7APi5104c5nS/view?usp=sharing)
-
 - ⚡ Fun fact **I think I am funny**
 
 Languages and Tools:
