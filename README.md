@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fidan</h1>
-<h3 align="center">.net backend developer from Azerbaijan</h3>
+<h3 align="center"> backend developer from Azerbaijan</h3>
 
 - 📫 How to reach me **fidan.tomarova@gmail.com**
 
